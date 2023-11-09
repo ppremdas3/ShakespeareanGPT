@@ -11,19 +11,5 @@ Welcome to the Shakespearean GPT Model project! This repository contains a GPT (
 
 The Shakespearean GPT Model is designed to recapture the language and style of the renowned playwright, William Shakespeare. This model is ideal for generating text, crafting dialogues, and composing sonnets, among many other applications. Whether you are a Shakespeare enthusiast or just looking to add a touch of classical elegance to your writing, this model is here to assist you.
 
-## Getting Started
-
-### Installation
-
-To get started with the Shakespearean GPT Model, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/ppremdas3/shakespearean-gpt.git
-   cd shakespearean-gpt
-   python -m venv venv
-   venv\Scripts\activate
-   pip install pylzma numpy ipykernel jupyter torch --index-url https://download.pytorch.org/whl/cu118
-
+This model will further be trained on all the work of William Shakespeare...
 
