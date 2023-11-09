@@ -6,11 +6,6 @@ Welcome to the Shakespearean GPT Model project! This repository contains a GPT (
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-  - [Usage](#usage)
-- [Model Details](#model-details)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
